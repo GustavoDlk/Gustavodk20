@@ -1,24 +1,23 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/GustavoDlk/63cc67843eb014303178ed47b2bce9e7/raw/f6ee9f75bd488bea32453e974123d8819c1e12d8/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gustavo Deluka</h1>
+<div>
+   <a style="text-align: right; padding: 0px;" href="https://www.youtube.com/channel/gustavodeluka" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/gustavodeluka" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavodeluka" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
+</div>
+
+## BEM VINDO AO MEU GITHUB
+
+![Snake animation](https://github.com/dfilitto/dfilitto/blob/output/github-contribution-grid-snake.svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GustavoDlk&color=yellow" alt="Profile views" /> </p>
 
-### ⭐ Seja Bem Vindo!
+## ⭐ Gustavo Deluka
 
 - 🔭 Disponível para o mercado ...
-- 🌱 Estudando JavaScript
+- 🌱 Sempre em busca de conhecimento ...
 - 📫 Contate-me no email: Gustavodeluka@gmail.com
 - ✔️ Tenho iniciativa e vontade de vencer!
 
-### 📚 Estudante de analise e desenvolivmento de sistemas dedicado e atento aos detalhes, apaixonado por novos desafios e desenvolvimento de sistemas.
+## 📚 Estudante de analise e desenvolivmento de sistemas dedicado e atento aos detalhes, apaixonado por novos desafios e desenvolvimento de sistemas.
 
-## 🤵 Gustavo Deluka
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavodlk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<!--
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
