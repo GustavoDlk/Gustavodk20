@@ -16,5 +16,23 @@ I am an ambitious problem solver, that always wants to do the great as possible,
 </p>
 </div
 
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<h3 align="left">Languages and Frameworks</h3>
+<div>
+  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="bootstrap" width="40" height="40"/></a>
+  <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="bootstrap" width="40" height="40"/></a>
+  <a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+  <a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+  <a href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+ </p>
+ 
+</div>
+
+</p>
+
 <div align="left">
+ </p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavodlk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
