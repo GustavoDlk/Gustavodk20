@@ -1,23 +1,20 @@
 ## BEM VINDO AO MEU GITHUB
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-![Snake animation](https://github.com/dfilitto/dfilitto/blob/output/github-contribution-grid-snake.svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GustavoDlk&color=yellow" alt="Profile views" /> </p>
+I am an ambitious problem solver, that always wants to do the great as possible, whether in my professional or personal life. I am easygoingi, knowing how to work and interact with people of all levels. I can take responsibility for my own work. I always look forward, searching for knowledge and working towards making a good impact on the future.
 
-## ⭐ Gustavo Deluka
-
-- 🔭 Disponível para o mercado ...
-- 🌱 Sempre em busca de conhecimento ...
-- 📫 Contate-me no email: Gustavodeluka@gmail.com
-- ✔️ Tenho iniciativa e vontade de vencer!
+- 🔭 Disponível para o mercado.
+- 🌱 Sempre em busca de conhecimento.
+- 📫 How to reach me : Gustavodeluka@gmail.com
 
 <div>
-   <a style="text-align: right; padding: 0px;" href="https://www.youtube.com/channel/gustavodeluka" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/gustavodeluka" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavodeluka" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</p>
-</div>
 
-## 📚 Estudante de analise e desenvolivmento de sistemas dedicado e atento aos detalhes, apaixonado por novos desafios e desenvolvimento de sistemas.
+ ## <b>Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+ <a href="https://www.linkedin.com/in/gustavodeluka/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="mailto:gustavodeluka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/gustavodeluka" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</p>
+</div
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavodlk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
