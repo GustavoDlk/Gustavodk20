@@ -37,8 +37,17 @@ I am an ambitious problem solver, that always wants to do the great as possible,
 
 ##
 
-<p align = "left">
+ <details>
+  <summary> <b>📊 GitHub Stats </b><i >(ver mais)</i> </summary>
+  <br>
+<div align="center">
+  <p align = "left">
   <img height="147em" src="https://github-readme-stats.vercel.app/api?username=gustavodlk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="147em" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavodlk&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
 </p>
-
+ 
+  <div id="top" align ="left" >
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=10&color=F78015&center=true&width=700&lines=Ou%C3%A7a+conselhos+e+aceite+instru%C3%A7%C3%B5es%2C+e+acabar%C3%A1+sendo+s%C3%A1bio.;Prov%C3%A9rbios+19%3A20" alt="Typing SVG" />
+  </div>
+  </div>
+ 
