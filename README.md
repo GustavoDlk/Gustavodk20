@@ -38,7 +38,7 @@ I am an ambitious problem solver, that always wants to do the great as possible,
 ##
 
 <p align = "left">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gustavodlk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavodlk&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
+  <img height="147em" src="https://github-readme-stats.vercel.app/api?username=gustavodlk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="147em" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavodlk&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
 </p>
 
