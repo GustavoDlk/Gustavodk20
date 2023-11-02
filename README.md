@@ -1,7 +1,7 @@
 ## BEM VINDO AO MEU GITHUB
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-I am an ambitious problem solver, that always wants to do the great as possible, whether in my professional or personal life. I am easygoingi, knowing how to work and interact with people of all levels. I can take responsibility for my own work. I always look forward, searching for knowledge and working towards making a good impact on the future.
+I am an ambitious problem solver who always wants to do as great as possible, whether professionally or personally. I am easygoing, knowing how to work and interact with people of all levels. I can take responsibility for my work. I always look forward, to searching for knowledge and working towards making a good impact on the future.
 
 - 🔭 I’m currently working on and around Linux.
 - 👨‍💻 My favorite programming language is Java.
