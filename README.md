@@ -4,8 +4,7 @@
 I am an ambitious problem solver who always wants to do as great as possible, whether professionally or personally. I am easygoing, knowing how to work and interact with people of all levels. I can take responsibility for my work. I always look forward, to searching for knowledge and working towards making a good impact on the future.
 
 - 🔭 I’m currently working on and around Linux.
-- 👨‍💻 My favorite programming language is Java.
-- 🌱 Always in search of knowledge.
+- 👨‍💻 Always in search of knowledge.
 - 📫 How to reach me: gustavodeluka@gmail.com
 
 <div>
