@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://i.imgur.com/4ASafy0.png" alt="Banner" width="100%"/>
+   <img src="https://media.licdn.com/dms/image/v2/D4D16AQHgxwjLQFCkWA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729267706216?e=1734566400&v=beta&t=EQ1VV2nqjL9PkTaDRNz9logiuFKxZ_VqENJ9MOxhqSU" alt="Banner" width="100%"/>
 </div>
 
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Gustavo</h1>
