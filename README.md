@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=GustavoDlk&icon=0&color=FFA700" alt="Profile Views">
+    <img src="https://visitcount.itsvg.in/api?id=GustavoDlk&icon=0&color=FF8C00" alt="Profile Views">
   </a>
 </p>
 
