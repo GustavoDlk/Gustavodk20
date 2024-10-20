@@ -4,7 +4,8 @@
 
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Gustavo</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA700&center=true&vCenter=true&width=1000&lines=Front-end+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA700&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+
 
 <p align="center">
   <em>“Technology moves the world.”</em> - Steve Jobs
